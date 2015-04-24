@@ -1,3 +1,3 @@
-# group_project_week_1
+# Project Benson
 
-This is the repo for our Benson project in week #1
+Using pandas and seaborn to analyze and plot MTA data
